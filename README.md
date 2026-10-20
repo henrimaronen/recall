@@ -6,7 +6,7 @@ Recall turns my Apple Books highlights into a personal archive.
 
 ## Why I built it
 
-I like to keep my reading sessions active by highlighting the parts that catch my eye. The Apple Books app doesn't offer an easy way to export these highlights, so I needed to find a workaround. Recall is that workaround: all my highlights land in one database, where I can use them in whatever way I find useful.
+I like to keep my reading sessions active by highlighting the parts that catch my eye. The Apple Books app doesn't offer an easy way to export these highlights, so I needed to find a workaround. All highlights land in one database, where I can use them in whatever way I find useful.
 
 ## Tech stack
 
